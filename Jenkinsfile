@@ -8,5 +8,6 @@ pipeline {
 			sh "jar -cvmf MANIFEST rectangle.jar .class"  
 		}	
 	}
+	}
 }
 
